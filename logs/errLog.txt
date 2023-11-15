@@ -1,0 +1,8 @@
+20230929	08:42:26	c3edd36e-6654-438c-8154-295496def622	Error: Not allowed by CORS
+20231007	08:01:11	7e1dbe86-c035-4ac1-80c8-5f2b8b2a6695	ReferenceError: indexOf is not defined
+20231029	07:30:25	e2750161-43e6-42d5-97ad-82f30e18fcbc	Error: Not allowed by CORS
+20231029	07:31:53	4e898596-cf45-4e5c-af62-40aad523d307	Error: Not allowed by CORS
+20231029	07:34:18	e0a92286-3ada-4f6e-8870-5db93f41e615	Error: Not allowed by CORS
+20231029	07:34:38	9f9c8a15-7c0e-4983-9f99-dcff55a0e1c4	Error: Not allowed by CORS
+20231029	07:35:47	3a5c37a9-caa6-43f8-9ab6-42b5eae1fff6	Error: Not allowed by CORS
+20231104	08:44:56	6a0dffdf-a0e0-4d0d-9b28-225e330f753d	Error: Not allowed by CORS
