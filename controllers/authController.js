@@ -34,7 +34,7 @@ const handleLogin = async (req, res) => {
 
         // Changed to let keyword
         let newRefreshTokenArray = 
-            !cookies.jwt
+            !cookies?.jwt
                 ? foundUser.refreshToken
                 : foundUser.refreshToken.filter(rt => rt !== cookies.jwt)
         if (cookies?.jwt) {
