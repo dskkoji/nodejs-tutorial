@@ -37,7 +37,7 @@ const handleLogin = async (req, res) => {
             !cookies.jwt
                 ? foundUser.refreshToken
                 : foundUser.refreshToken.filter(rt => rt !== cookies.jwt)
-        if (cookies.jwt) {
+        if (cookies?.jwt) {
 
             const refreshToken = cookies.jwt
             const foundToken = await User.findOne({ refreshToken }).exec()
